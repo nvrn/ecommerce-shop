@@ -18,4 +18,4 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: neverenn.beget.tech/public_html/
+          server-dir: eshop.dsaharov.ru/public_html/
