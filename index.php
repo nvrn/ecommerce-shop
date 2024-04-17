@@ -1,8 +1,8 @@
 <?php 
 
 class user {
-    public $username = 'test name'
-    public $usermail = 'test@mail'
+    public $username = 'test name';
+    public $usermail = 'test@mail';
 }
 
 $dima = new user();
