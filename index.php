@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    hi me
+    Check deploy to host
 </body>
 </html>
