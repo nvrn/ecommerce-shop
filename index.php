@@ -22,7 +22,7 @@
             </div>
         </div>
     </header>
-    <div class="hero pt-3 pb-3">
+    <div class="hero pt-5 pb-5">
         <div class="container">
             Slider content
         </div>
@@ -68,7 +68,7 @@
         </div>
     </div>
     <footer class="footer">
-        <div class="container pt-4 pb-2">
+        <div class="container pt-4 pb-4">
             <div class="row">
                 <div class="col-4">
                     Logo
@@ -78,13 +78,15 @@
                 </div>
             </div>
         </div>
-        <div class="container-fluid bg-danger text-white pt-2 pb-2">
-            <div class="row">
-                <div class="col-6">
-                    Policy
-                </div>
-                <div class="col-6">
-                    Copyright
+        <div class="bg-danger text-white pt-2 pb-2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6">
+                        Policy
+                    </div>
+                    <div class="col-6">
+                        Copyright
+                    </div>
                 </div>
             </div>
         </div>
