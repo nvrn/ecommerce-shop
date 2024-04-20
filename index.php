@@ -13,5 +13,6 @@ echo 'username: ' .$dima->username . '<br>';
 echo 'usermail: ' .$dima->usermail . '<br>';
 echo 'usermail: ' .$dima->usermail . '<br>';
 
+echo 'usermail: ' .$dima->usermail . '<br>';
 
 
