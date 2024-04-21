@@ -8,7 +8,7 @@
     <link rel=”stylesheet” href=”https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css” />
 </head>
 <body>
-    <header class="admin-bar bg-dark">
+    <header class="admin-bar bg-dark pt-2 pb-2">
         <div class="container">
             <div class="admin-bar__branding">
                 <i class="fs-2 bi bi-filter-circle-fill"></i>
