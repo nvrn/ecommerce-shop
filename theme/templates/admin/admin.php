@@ -10,9 +10,7 @@
     <header class="admin-bar bg-dark">
         <div class="container">
             <div class="admin-bar__branding">
-                <svg class="bi" width="32" height="32" fill="currentColor">
-                    <use xlink:href="bootstrap-icons.svg#heart-fill"/>
-                </svg>
+                <i class="fs-2 bi bi-filter-circle-fill"></i>
             </div>
             <div class="admin-bar__actions user-actions float-right">
                 <div class="user-actions__item">
