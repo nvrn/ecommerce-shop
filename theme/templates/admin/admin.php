@@ -9,7 +9,11 @@
 <body>
     <header class="admin-bar bg-dark">
         <div class="container">
-            <img src="" alt="" class="admin-bar__logo float-left">
+            <div class="admin-bar__branding">
+                <svg class="bi" width="32" height="32" fill="currentColor">
+                    <use xlink:href="bootstrap-icons.svg#heart-fill"/>
+                </svg>
+            </div>
             <div class="admin-bar__actions user-actions float-right">
                 <div class="user-actions__item">
                     user@login.ru
